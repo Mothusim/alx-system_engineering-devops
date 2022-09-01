@@ -1,0 +1,4 @@
+#!/bin/bash
+home_var=$HOME
+echo "$home_var"
+ls $home_var
